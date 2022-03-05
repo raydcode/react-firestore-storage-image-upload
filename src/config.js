@@ -2,7 +2,7 @@ import * as firebase from 'firebase/app';
 import 'firebase/storage';
 import 'firebase/firestore';
 
-var firebaseConfig = {
+const firebaseConfig = {
   apiKey: 'AIzaSyBMZNEicX-mD8PbUqW3o1wDn9j0TyDxsbA',
   authDomain: 'raydphoto-6f5cf.firebaseapp.com',
   projectId: 'raydphoto-6f5cf',
